@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Chessnuts.github.io/Portfolio-Website",
+  "homepage": "http://ryanchessum.com/",
   "name": "app",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
+      "Ryan Chessum",
       "react-app/jest"
     ]
   },

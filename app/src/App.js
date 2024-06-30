@@ -1,7 +1,7 @@
 import './App.css';
 import { Home } from './pages/home';
 import { Portfolio } from './pages/portfolio';
-import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import { HashRouter as Router, Routes, Route} from "react-router-dom";
 import React from 'react';
 
 function App() {
